@@ -1,5 +1,5 @@
 {
-  "name": "fulltilt",
+  "name": "@hughsk/fulltilt",
   "title": "Full Tilt",
   "version": "0.7.0",
   "description": "Standalone device orientation + device motion normalization and conversion library",
