@@ -3,7 +3,7 @@ Full Tilt
 
 #### Standalone device orientation + motion detection, normalization and conversion library ####
 
-*This is a fork published to npm. See [the original](https://github.com/adtile/Full-Tilt) for support etc.*
+*This is a fork published to npm. See [the original](https://github.com/adtile/Full-Tilt) for support etc. **Warning:** Full-Tilt has a non-commercial license, so cannot be used in commercial projects.*
 
 Full Tilt is a Promise-based JavaScript library that detects support for device orientation and device motion sensor data and then normalizes that data across different platforms for web applications to use within their own 'world' or 'game' based frames.
 
